@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BDSqlite</string>
+    <string name="tvTitulo">Registro de usuarios</string>
+    <string name="etdocumento">DOCUMENTO</string>
+    <string name="etusuario">USUARIO</string>
+    <string name="etnombres">NOMBRES</string>
+    <string name="etapellidos">APELLIDOS</string>
+    <string name="etcontra">CONTRASEÑA</string>
+    <string name="btnregistrar">Registrar</string>
+    <string name="btnbuscar">Buscar</string>
+    <string name="btnlistarRegistros">Listar</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="btnUpdate">Actualizar</string>
+    <string name="btnDelete">Inactivar</string>
+</resources>
